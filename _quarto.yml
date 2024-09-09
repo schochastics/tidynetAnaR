@@ -1,0 +1,15 @@
+title: "Tidy Network Analysis in R"
+subtitle: "using the tidygraph package"
+description: Network Analysis in R using tidygraph
+author: 
+  - name: David Schoch
+    orcid: 0000-0003-1689-0557
+    email: david.schoch@gesis.org
+    url: https://mr.schochastics.net
+    affiliations:
+      - name: GESIS - Leibniz Institute for the Social Sciences
+toc: true
+execute:
+  freeze: true
+  echo: true
+  warning: false
